@@ -1,0 +1,1 @@
+/workspaces/osfall2024/operatingsystems/RustProgramming/Module1RustIntroProgramming/assignment1/tempconverter/target/debug/tempconverter: /workspaces/osfall2024/operatingsystems/RustProgramming/Module1RustIntroProgramming/assignment1/tempconverter/src/main.rs

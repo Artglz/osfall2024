@@ -1,0 +1,1 @@
+/workspaces/osfall2024/operatingsystems/RustProgramming/Module1RustIntroProgramming/assignment2/numberanalyzer/target/debug/numberanalyzer: /workspaces/osfall2024/operatingsystems/RustProgramming/Module1RustIntroProgramming/assignment2/numberanalyzer/src/main.rs
