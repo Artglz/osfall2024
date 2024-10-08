@@ -1,8 +1,8 @@
 int main() {
-    const char *msg = "Hello from the user process!\n";
+    const char *msg = "Arturo\n";
     long syscall_number = 1;  // Syscall number for write is 1
     long file_descriptor = 1; // Standard output (stdout)
-    long message_length = 28; // Length of the message
+    long message_length = 7; // Length of the message
 
     __asm__ (
         "mov %0, %%rax\n\t"  // Move the syscall number (1) into rax
