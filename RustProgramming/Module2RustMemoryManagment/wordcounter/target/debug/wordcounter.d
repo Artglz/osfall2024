@@ -1,0 +1,1 @@
+/workspaces/osfall2024/operatingsystems/RustProgramming/Module2RustMemoryManagment/wordcounter/target/debug/wordcounter: /workspaces/osfall2024/operatingsystems/RustProgramming/Module2RustMemoryManagment/wordcounter/src/main.rs
